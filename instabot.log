@@ -1,0 +1,160 @@
+2020-08-06 01:21:13,693 POST http://127.0.0.1:43399/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "firefox", "acceptInsecureCerts": true}}, "desiredCapabilities": {"browserName": "firefox", "acceptInsecureCerts": true, "marionette": true}}
+2020-08-06 01:21:18,252 Finished Request
+2020-08-06 01:21:18,252 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:21:20,154 Finished Request
+2020-08-06 01:21:20,154 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:21:20,175 Finished Request
+2020-08-06 01:21:20,676 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:21:20,685 Finished Request
+2020-08-06 01:21:20,685 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/380305a2-c4fb-496a-b580-d4bf6b31bd87/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "380305a2-c4fb-496a-b580-d4bf6b31bd87"}
+2020-08-06 01:21:20,790 Finished Request
+2020-08-06 01:21:20,790 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:21:20,801 Finished Request
+2020-08-06 01:21:20,801 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/23ab65d3-877d-4c94-aefb-007774aaf4ee/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "23ab65d3-877d-4c94-aefb-007774aaf4ee"}
+2020-08-06 01:21:20,910 Finished Request
+2020-08-06 01:21:20,910 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/23ab65d3-877d-4c94-aefb-007774aaf4ee/value {"text": "\ue006", "value": ["\ue006"], "id": "23ab65d3-877d-4c94-aefb-007774aaf4ee"}
+2020-08-06 01:21:20,959 Finished Request
+2020-08-06 01:21:25,963 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:21:25,969 Finished Request
+2020-08-06 01:21:25,969 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/12ec753a-a819-4f78-a0a4-dee192ed67e3/click {"id": "12ec753a-a819-4f78-a0a4-dee192ed67e3"}
+2020-08-06 01:21:29,638 Finished Request
+2020-08-06 01:21:32,639 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "css selector", "value": "input[placeholder=\"Search\"]"}
+2020-08-06 01:21:32,676 Finished Request
+2020-08-06 01:21:32,676 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/8797b3af-25f2-40fd-b255-6be42e394c6c/value {"text": "amrdiab", "value": ["a", "m", "r", "d", "i", "a", "b"], "id": "8797b3af-25f2-40fd-b255-6be42e394c6c"}
+2020-08-06 01:21:32,750 Finished Request
+2020-08-06 01:21:35,754 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "css selector", "value": ".Ap253"}
+2020-08-06 01:21:35,783 Finished Request
+2020-08-06 01:21:35,784 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/68800f95-38ae-4d7e-bf0d-afe00c8d1a10/click {"id": "68800f95-38ae-4d7e-bf0d-afe00c8d1a10"}
+2020-08-06 01:21:36,310 Finished Request
+2020-08-06 01:21:41,315 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element {"using": "css selector", "value": "span[class=\"vBF20 _1OSdk\"]"}
+2020-08-06 01:21:41,325 Finished Request
+2020-08-06 01:21:41,325 POST http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/element/09b6975e-ae53-42eb-895b-a8a85ebe9219/click {"id": "09b6975e-ae53-42eb-895b-a8a85ebe9219"}
+2020-08-06 01:21:41,597 Finished Request
+2020-08-06 01:21:43,598 DELETE http://127.0.0.1:43399/session/9b4b52c2-8a60-4049-b4f2-dcb5a5e71ef1/window {}
+2020-08-06 01:21:45,922 Finished Request
+2020-08-06 01:21:45,922 The code is working fine.
+2020-08-06 01:21:50,934 POST http://127.0.0.1:47959/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "firefox", "acceptInsecureCerts": true}}, "desiredCapabilities": {"browserName": "firefox", "acceptInsecureCerts": true, "marionette": true}}
+2020-08-06 01:21:55,573 Finished Request
+2020-08-06 01:21:55,573 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:21:57,256 Finished Request
+2020-08-06 01:21:57,257 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:21:57,285 Finished Request
+2020-08-06 01:21:57,786 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:21:57,794 Finished Request
+2020-08-06 01:21:57,794 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/fb4183b4-2427-4403-b256-dd5ca2cd118e/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "fb4183b4-2427-4403-b256-dd5ca2cd118e"}
+2020-08-06 01:21:57,892 Finished Request
+2020-08-06 01:21:57,893 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:21:57,909 Finished Request
+2020-08-06 01:21:57,909 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/bda29af8-d3d5-4c29-9718-e585f0850686/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "bda29af8-d3d5-4c29-9718-e585f0850686"}
+2020-08-06 01:21:57,985 Finished Request
+2020-08-06 01:21:57,986 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/bda29af8-d3d5-4c29-9718-e585f0850686/value {"text": "\ue006", "value": ["\ue006"], "id": "bda29af8-d3d5-4c29-9718-e585f0850686"}
+2020-08-06 01:21:58,042 Finished Request
+2020-08-06 01:22:03,046 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:03,056 Finished Request
+2020-08-06 01:22:03,057 Element not found.
+2020-08-06 01:22:03,057 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:03,972 Finished Request
+2020-08-06 01:22:03,972 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:04,006 Finished Request
+2020-08-06 01:22:04,507 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:04,516 Finished Request
+2020-08-06 01:22:04,517 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/a303bed5-85de-4a2d-93d8-02b6f9bbe2d0/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "a303bed5-85de-4a2d-93d8-02b6f9bbe2d0"}
+2020-08-06 01:22:04,658 Finished Request
+2020-08-06 01:22:04,658 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:22:04,667 Finished Request
+2020-08-06 01:22:04,668 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/f20fb667-8556-4d8d-b890-e2a60a3c0b7e/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "f20fb667-8556-4d8d-b890-e2a60a3c0b7e"}
+2020-08-06 01:22:04,744 Finished Request
+2020-08-06 01:22:04,744 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/f20fb667-8556-4d8d-b890-e2a60a3c0b7e/value {"text": "\ue006", "value": ["\ue006"], "id": "f20fb667-8556-4d8d-b890-e2a60a3c0b7e"}
+2020-08-06 01:22:04,792 Finished Request
+2020-08-06 01:22:09,794 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:09,800 Finished Request
+2020-08-06 01:22:09,800 Element not found.
+2020-08-06 01:22:09,800 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:10,753 Finished Request
+2020-08-06 01:22:10,754 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:10,788 Finished Request
+2020-08-06 01:22:11,289 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:11,316 Finished Request
+2020-08-06 01:22:11,316 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/4feecf29-275d-4f38-b057-09822760dd31/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "4feecf29-275d-4f38-b057-09822760dd31"}
+2020-08-06 01:22:11,411 Finished Request
+2020-08-06 01:22:11,412 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:22:11,421 Finished Request
+2020-08-06 01:22:11,421 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/8e271127-ed16-4223-98b4-ee9f1ef9932e/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "8e271127-ed16-4223-98b4-ee9f1ef9932e"}
+2020-08-06 01:22:11,499 Finished Request
+2020-08-06 01:22:11,499 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/8e271127-ed16-4223-98b4-ee9f1ef9932e/value {"text": "\ue006", "value": ["\ue006"], "id": "8e271127-ed16-4223-98b4-ee9f1ef9932e"}
+2020-08-06 01:22:11,540 Finished Request
+2020-08-06 01:22:16,543 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:16,553 Finished Request
+2020-08-06 01:22:16,553 Element not found.
+2020-08-06 01:22:16,553 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:17,512 Finished Request
+2020-08-06 01:22:17,512 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:17,543 Finished Request
+2020-08-06 01:22:18,044 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:18,050 Finished Request
+2020-08-06 01:22:18,051 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/9f03ccf5-9fad-4357-a02d-ecf3f6b6217e/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "9f03ccf5-9fad-4357-a02d-ecf3f6b6217e"}
+2020-08-06 01:22:18,142 Finished Request
+2020-08-06 01:22:18,143 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:22:18,156 Finished Request
+2020-08-06 01:22:18,157 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/1dc6c75f-48c8-4a0d-aa82-f91ed1b6e82b/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "1dc6c75f-48c8-4a0d-aa82-f91ed1b6e82b"}
+2020-08-06 01:22:18,249 Finished Request
+2020-08-06 01:22:18,250 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/1dc6c75f-48c8-4a0d-aa82-f91ed1b6e82b/value {"text": "\ue006", "value": ["\ue006"], "id": "1dc6c75f-48c8-4a0d-aa82-f91ed1b6e82b"}
+2020-08-06 01:22:18,306 Finished Request
+2020-08-06 01:22:23,311 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:23,324 Finished Request
+2020-08-06 01:22:23,325 Element not found.
+2020-08-06 01:22:23,325 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:24,081 Finished Request
+2020-08-06 01:22:24,082 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:24,105 Finished Request
+2020-08-06 01:22:24,606 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:24,616 Finished Request
+2020-08-06 01:22:24,617 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/a8b0505a-c203-4736-98b1-63d0d6efb52c/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "a8b0505a-c203-4736-98b1-63d0d6efb52c"}
+2020-08-06 01:22:24,710 Finished Request
+2020-08-06 01:22:24,710 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:22:24,721 Finished Request
+2020-08-06 01:22:24,722 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/35cdd72f-7cb7-4649-823c-61b8b7b09b1a/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "35cdd72f-7cb7-4649-823c-61b8b7b09b1a"}
+2020-08-06 01:22:24,804 Finished Request
+2020-08-06 01:22:24,804 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/35cdd72f-7cb7-4649-823c-61b8b7b09b1a/value {"text": "\ue006", "value": ["\ue006"], "id": "35cdd72f-7cb7-4649-823c-61b8b7b09b1a"}
+2020-08-06 01:22:24,843 Finished Request
+2020-08-06 01:22:29,848 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:29,856 Finished Request
+2020-08-06 01:22:29,856 Element not found.
+2020-08-06 01:22:29,856 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:30,598 Finished Request
+2020-08-06 01:22:30,599 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:30,625 Finished Request
+2020-08-06 01:22:31,125 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:31,132 Finished Request
+2020-08-06 01:22:31,132 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/7f2631d1-0d8c-4351-a307-497e30f0dd27/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "7f2631d1-0d8c-4351-a307-497e30f0dd27"}
+2020-08-06 01:22:31,225 Finished Request
+2020-08-06 01:22:31,225 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:22:31,237 Finished Request
+2020-08-06 01:22:31,237 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/60f81733-abc7-4a5c-957c-adba9c286414/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "60f81733-abc7-4a5c-957c-adba9c286414"}
+2020-08-06 01:22:31,314 Finished Request
+2020-08-06 01:22:31,314 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/60f81733-abc7-4a5c-957c-adba9c286414/value {"text": "\ue006", "value": ["\ue006"], "id": "60f81733-abc7-4a5c-957c-adba9c286414"}
+2020-08-06 01:22:31,363 Finished Request
+2020-08-06 01:22:36,366 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:36,373 Finished Request
+2020-08-06 01:22:36,373 Element not found.
+2020-08-06 01:22:36,373 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:37,117 Finished Request
+2020-08-06 01:22:37,117 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:37,145 Finished Request
+2020-08-06 01:22:37,646 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:37,655 Finished Request
+2020-08-06 01:22:37,656 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/6f972e2c-e070-444b-897d-61fa76b95e7c/value {"text": "lawebot", "value": ["l", "a", "w", "e", "b", "o", "t"], "id": "6f972e2c-e070-444b-897d-61fa76b95e7c"}
+2020-08-06 01:22:37,747 Finished Request
+2020-08-06 01:22:37,747 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"password\"]"}
+2020-08-06 01:22:37,753 Finished Request
+2020-08-06 01:22:37,753 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/aa1384a5-56d0-4bdc-9301-5fa9267e1178/value {"text": "pass123", "value": ["p", "a", "s", "s", "1", "2", "3"], "id": "aa1384a5-56d0-4bdc-9301-5fa9267e1178"}
+2020-08-06 01:22:37,827 Finished Request
+2020-08-06 01:22:37,828 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element/aa1384a5-56d0-4bdc-9301-5fa9267e1178/value {"text": "\ue006", "value": ["\ue006"], "id": "aa1384a5-56d0-4bdc-9301-5fa9267e1178"}
+2020-08-06 01:22:37,872 Finished Request
+2020-08-06 01:22:42,876 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "xpath", "value": "/html/body/div[1]/section/main/div/div/div/div/button"}
+2020-08-06 01:22:42,881 Finished Request
+2020-08-06 01:22:42,882 Element not found.
+2020-08-06 01:22:42,882 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/url {"url": "https://www.instagram.com/"}
+2020-08-06 01:22:43,622 Finished Request
+2020-08-06 01:22:43,622 POST http://127.0.0.1:47959/session/7fa838cc-cfaf-4868-89fe-4c09af67add7/element {"using": "css selector", "value": "[name=\"username\"]"}
+2020-08-06 01:22:43,636 Finished Request
